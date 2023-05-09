@@ -1,11 +1,11 @@
 {
-  "name": "team-project",
+  "name": "html_86_gladja",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/team-project/",
+    "build": "vite build --base=/html_86_gladja/",
     "preview": "vite preview"
   },
   "devDependencies": {
